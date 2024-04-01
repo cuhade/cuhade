@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Cade
+- 🔎 am a Data Science student at Chaminade University of Honolulu 
 - 🌱 I’m currently learning Python
 - 🐢 Fun fact: I love turtles!
+- 💬 Reach me at cade.garcia@student.chaminade.edu
 
 
 <!---
